@@ -32,7 +32,7 @@ export function Hero() {
           <div className="mt-10 flex flex-col gap-3 sm:flex-row">
             <a
               href="#projects"
-              className="inline-flex min-h-12 items-center justify-center bg-[var(--navy)] px-6 text-sm font-semibold text-white transition-transform hover:-translate-y-0.5"
+              className="inline-flex min-h-12 items-center justify-center bg-[var(--surface)] px-6 text-sm font-semibold text-white transition-transform hover:-translate-y-0.5"
             >
               View Projects
             </a>
